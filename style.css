@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+* {
+margin: 0;
+padding: 0;
+color: #000;
+}
+
+img {
+vertical-align: bottom;
+}
+
+h1 {
+margin: 20px;
+}
+
+.acdion {
+height: 400px;
+position: relative;
+}
+
+.pleat {
+width: 500px;
+height: 100%;
+overflow: hidden;
+background: #eee;
+}
+
+.pleat h2 {
+width: 40px;
+height: 100%;
+float: left;
+background: #009c84;
+cursor: pointer;
+}
+
+.pleat .txt {
+padding: 15px;
+overflow: auto;
+zoom: 1;
+}
