@@ -1,4 +1,4 @@
-# acordion
+# accordion
 
 ## jQuery Plugins
 
